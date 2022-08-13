@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.zain{
+    background: url('../images/sunglass.webp') no-repeat  center/cover;
+    height: 250px;
+    width: 600px;
+}
+
+.khan{
+    background: url('../images/nike.webp') no-repeat  center/cover;
+    height: 250px;
+    width: 600px;
+}
+.show{
+    background: url('../images/apple-watch.webp') no-repeat  center/cover;
+    height: 250px;
+    width: 600px;
+}
+.nike{
+    background: url('../images/perfume.webp') no-repeat  center/cover;
+    height: 250px;
+    width: 600px;
+}
